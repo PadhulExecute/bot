@@ -2,14 +2,14 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6285600204672': { // put your number here
-    name: 'Owner Metro Bot/Creator games-wabot',
+  '085600204672' : { // nomormu disini
+    name: 'Owner dhull botz',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6287761098709': { // put your number here
-    isDev: true, // if true this number will send if bot have bug and developer mode true
+  '087761098709' : { // cantumkan nomormu disini087761098709
+    isDev : true , // jika benar nomor ini akan dikirim jika bot memiliki bug dan mode pengembang benar
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
